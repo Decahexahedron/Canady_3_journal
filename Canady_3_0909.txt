@@ -1,0 +1,2 @@
+Explain what we did yesterday (with github) and why.
+We set up a folder with our name and period on it, then used git commands to set up a repository for journals. Now, the folder on the computer is linked to our github. I am typing this in pico on the desktop, but it goes straight to the github for Mr. Davis to look at.
