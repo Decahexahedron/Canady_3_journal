@@ -1,0 +1,8 @@
+Explain what we did yesterday and why.
+Yesterday, since we had already set up git for the directory, we put our first file(s) in the repository. After making yesterday's journal, we commited and then pushed the file. Here is the daily process:
+1. cd Canady_3_journal
+2. pico Canady_3_(date)
+3. Do the journal
+4. git add Canady_3_(date)
+5. git commit -m "comment"
+6. git push -u origin master
