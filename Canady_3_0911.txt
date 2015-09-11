@@ -1,0 +1,7 @@
+What is pseudocode - What is it good for?
+Pseudocode is stuff that looks like code, but isn't actually real code, and it's easier.
+More specifically -
+Why will we use it?
+When we are coming up with the solution to the problem, we will use flowcharts and pseudocode to plan out how to implement a solution.
+What about the steps of problem solving?
+Part of problem solving involves pseudocode, mostly planning.
