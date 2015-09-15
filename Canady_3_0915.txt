@@ -1,0 +1,2 @@
+What is an IDE? What is it good for?
+An IDE is an integrated development environment. It is a program you can use to write, compile, debug, etc code.

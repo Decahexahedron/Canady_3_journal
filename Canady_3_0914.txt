@@ -1,0 +1,5 @@
+How would you explain the importance of organizing one's thoughts and not proceeding in a haphazard manner?
+If you don't organize your thoughts, all of your ideas will be a jumbled mess, and it will be much harder to make the ideas into a real battle plan, and it will be a lot harder and really messy once you start coding.
+Today you will finish creating an image of your Processing art overlaid with code.
+Why?
+It looks super cool and shows all the work we put in to make the art.
