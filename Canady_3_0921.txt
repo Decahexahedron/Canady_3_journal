@@ -3,4 +3,4 @@ Yes
 Why is it important that you use the naming convention specified when naming files?
 So Mr. Davis knows who to give the grade to, the date, and what period we're in
 What is the command to copy in Linux? to copy all of a directory to the current directory?
-I'm gonna just guess and say it's ctrl+shift+c but I don't know if we've been informed of that information
+cp <copy file> <new file>
