@@ -1,0 +1,40 @@
+__     _____   ____    _    ____
+\ \   / / _ \ / ___|  / \  | __ ) 
+ \ \ / / | | | |     / _ \ |  _ \ 
+  \ V /| |_| | |___ / ___ \| |_) |
+   \_/  \___/ \____/_/   \_\____/ 
+                                  
+Copyright- The rules an original work has for beinng copied or used.
+Copyleft- Similar to copyright, but requires that any modification follows the same rules as the original.
+Fair Use- Using something correctly under its copyright rules.
+Free Speech- The right usnder the first Amendment 
+Free Software- Software that doesn't have to be paid for
+Freeware- Same as Free Software?????
+Public Domain- When something is open to be used by everyone, usually when the owner or creator is long-dead
+File-sharing- Copying a file to someone else without them buying it, usually violates DRM or copyright
+Piracy- Copying, ripping, torrenting, etc. something so others don't have to pay for it
+Plagiarism- Copying some else's work (usually words) without giving credit
+Infringement- Breaking the rules of copyright
+Proprietary- Something that has to be paid for/ is owned by someone
+Open Source- Can be freely used, changed, shared, similar to free software
+GNU GPL License- A free software license that gaurantees users the rights to
+use it freely
+MIT License- A permissive free license, it permits reuse within
+proprietary software (???)
+Apache License- A free software license made by the FSF, still requires
+that you keep the copyright notice/disclaimer
+EULA- End-User License Agreement, the really long document that you check and
+nobody ever reads
+Creative Commons- a copyright license that lets people use, change, etc. your original work
+  ___  _   _ _____ ____ _____ ___ ___  _   _ ____  
+ / _ \| | | | ____/ ___|_   _|_ _/ _ \| \ | / ___| 
+| | | | | | |  _| \___ \ | |  | | | | |  \| \___ \ 
+| |_| | |_| | |___ ___) || |  | | |_| | |\  |___) |
+ \__\_\\___/|_____|____/ |_| |___\___/|_| \_|____/ 
+ 
+Q1- I've seen it on some free software like GIMP.
+Q2- It's saying I have the right to use, change, share, etc.
+Q3- People will change and distribute it, some people may plagiarize/claim as their own.
+It means you could change a feature you don't like and/or share with your friends.
+Q4- When you don't mind if poeple are gonna change it, etc. and it's free
+Q5- When you want it to cost money or don't want people to change it
