@@ -1,0 +1,3 @@
+Why did Steve Ballmer call the GPL a virus?
+If something has the right to be openly changed and shared, etc., it can technically lead to being changed to an infinite amount. Also, since he's a Microsoft guy, he's against
+open-source, so to him, freedom/GPL stuff spreads virally and is bad, so it's a virus.
