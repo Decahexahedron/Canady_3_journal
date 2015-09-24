@@ -17,14 +17,11 @@ Plagiarism- Copying some else's work (usually words) without giving credit
 Infringement- Breaking the rules of copyright
 Proprietary- Something that has to be paid for/ is owned by someone
 Open Source- Can be freely used, changed, shared, similar to free software
-GNU GPL License- A free software license that gaurantees users the rights to
-use it freely
-MIT License- A permissive free license, it permits reuse within
-proprietary software (???)
+GNU GPL License- A free software license that gaurantees users the rights to use it freely
+MIT License- A permissive free license, it permits reuse within proprietary software (???)
 Apache License- A free software license made by the FSF, still requires
 that you keep the copyright notice/disclaimer
-EULA- End-User License Agreement, the really long document that you check and
-nobody ever reads
+EULA- End-User License Agreement, the really long document that you check and nobody ever reads
 Creative Commons- a copyright license that lets people use, change, etc. your original work
   ___  _   _ _____ ____ _____ ___ ___  _   _ ____  
  / _ \| | | | ____/ ___|_   _|_ _/ _ \| \ | / ___| 
