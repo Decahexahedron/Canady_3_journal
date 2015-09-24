@@ -7,7 +7,7 @@ __     _____   ____    _    ____
 Copyright- The rules an original work has for beinng copied or used.
 Copyleft- Similar to copyright, but requires that any modification follows the same rules as the original.
 Fair Use- Using something correctly under its copyright rules.
-Free Speech- The right under the first Amendment 
+Free Speech- The right under the first Amendment to sort-of say what you want
 Free Software- Software that is generally free and is open to be chanegd, shared, used, etc.
 Freeware- software that is free, i.e. not paid for
 Public Domain- When something is open to be used by everyone, usually when the owner or creator is long-dead
