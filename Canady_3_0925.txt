@@ -1,0 +1,10 @@
+Paid license- you have to buy the license to use the stuff like a program or picture
+Shareware- Propietary software that is free of charge, and people are encouraged to share
+Trialware- You  can try out the program for a while, and then buy a license or pay at the end of the trial
+Ad-ware- Software that includes advertising to make money, but can be a virus
+Crippleware- Kinda like trialware, you have to pay to do essential things like print or save a file
+Freemium- also known as pay-to-win, a free game/whatever that has premium currency or features that cost money
+FreeWare (vs Free-OpenSource)- something that's just free and not open source
+Richard Stallman- also known as rms, founded GNU and FSF
+Lawrence Lessig- A high-up member of FSF, political activist, and he is running for president
+Eben Moglen- Chairman of Software Freedom Law Center, supporter of free software
