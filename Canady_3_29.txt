@@ -1,0 +1,6 @@
+What is a method?
+A method is like a little program (called a function usually) that you can call whenever you want.
+What are they good for?
+Any time you have a process you want to use over and over
+How can we use methods to find primes?
+You could have a funtion that tracks what a number is divisible and not divisible by and use that to continue finding divisors for the next number(s)
