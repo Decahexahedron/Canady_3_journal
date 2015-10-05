@@ -1,0 +1,4 @@
+What are Code Comments?
+they start with // for single-line and /* for multi-line, they are just comments that don't change the code.
+What are they good for?
+It can make the code more readable and help observers (esp. if it's open-source) know what the code does
