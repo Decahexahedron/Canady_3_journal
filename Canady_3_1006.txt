@@ -1,0 +1,8 @@
+What are methods?
+Basically like a small program, you can use it whenever you want in the program
+What are classes?
+Contains variables, can use methods inside it, it runs in the program, like a template
+What is an instance?
+One usage of a class or method, one place that it exists/ is used
+What are class methods?
+something like static, changes a method/class???????
