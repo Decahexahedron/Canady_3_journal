@@ -1,0 +1,3 @@
+What is a Java class?
+(in our previous programs it was pretty much the whole program)
+Classes contain methods (i think?) and Google says they are like blueprints
