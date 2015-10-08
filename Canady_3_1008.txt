@@ -1,0 +1,10 @@
+What are your tentative thoughts / plans for your art project?
+If I can manage, I'll try to recreate what I did in Processing, because it was awesome
+What might be methods you will use?
+I need a method to translate and rotate the shape, maybe two separate one
+How might you incorporate a for loop?
+I need to count in some way, probably just a regular for loop, because the old program used a built-in function for "FrameCount"
+How might you incorporate, if, else if, else?
+I really don't know if could/should
+What math might you use? 
+Not sure, but if I had enough time, I could write one to automatically make the window the same size as the user's screen (which isn't much math but w/e)
