@@ -1,0 +1,6 @@
+My art is is a star-like object. (if the translate ends up working,) it moves around the screen.
+I use a method to graph the star, and a method to move it. I might separate the moving method into two methods.
+
+
+
+
