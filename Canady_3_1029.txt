@@ -1,0 +1,6 @@
+Is your guessing game a game? Why or why not?
+It sorta is..? It has a win and lose scenario, so technicallly it is, but it doesn't do much else.
+
+What would make it better?
+I could add a system of multiple tries, or make it so there is an option to continue on a win-streak if you get it right.
+That would make it more fun, probably.
