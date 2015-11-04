@@ -1,0 +1,14 @@
+What is a method?
+A method is like a little program. It does one specific task, so you can use it whenever you need to that task in your program.
+
+Which methods did you use and how did you use them in your guessing game program?
+I just used a method for the actual game, and put that method in the while loop so it only ran while they had tries. 
+It let them guess and told them if their guess was right or wrong.
+
+What is a while loop?
+A while loop checks for a certain thing. Whenever that thing is happening, whatever is inside the while loop will do its job. 
+The entire time that thing is happening, it will do whatever's in the loop, not just once. 
+
+How did you use a while loop, boolean, and counter in your guessing game? 
+I used a while loop to check if the user had any tries left, and while they had tries, it would run the game. 
+I used a boolean to determine if the game should keep going or not. I used a counter to keep track of how many tries they had left.
