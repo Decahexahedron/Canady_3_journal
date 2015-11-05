@@ -1,0 +1,15 @@
+What are strings?
+a string is a datatype that can contain letters, numbers, characters, etc.
+
+What are they good for?
+Any time you need to store/use info that isn't number or boolean (like a user's name or a keyboard input)
+
+What are some string methods?
+substring and length
+Substring makes a small chunk of the string, so str.substring(0,2) would return the first 2 characters of string str
+
+How do we identify string methods?
+they use syntax stringname.method()
+for example, name.substring(0,2)
+or str.length() //is technically an int that is the character length of the string
+
