@@ -1,0 +1,8 @@
+Are you ready to begin coding your game?
+Probably
+Why or why not?
+At this point I'm pretty good with Java, but I am not 100% sure about some details on how we will actually code the game.
+What will be your biggest challenge?
+At this one part I want to have an option that has a time limit, which might be tricky, also keeping track of all of the options and brackets
+Why?
+I don't know how to implement a time limit, so I don't know how hard it would be.
