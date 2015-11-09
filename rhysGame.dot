@@ -1,0 +1,115 @@
+digraph simple_map {
+
+start [label="You are walking home from work.
+A row of stores is on your left.
+From the corner of your eye, 
+you spot a scary-looking guy several meters you.
+He is definitely following you. 
+Keep walking, or go to your car?"]
+
+walk [label="Keep going
+You continue along the street,
+but it won't work for long.
+Start running, or hide?"]
+
+car [label="Car
+You start towards your car.
+Once you reach the car, he is already near.
+Putting in your key and opening the door takes too long,
+and the guy is right behind you. Run, or fight?"]
+
+hide [label="Hide
+You sneak into a clothing store. 
+You might as well buy something 
+to take your mind off of the situation.
+Buy something, or not?"]
+
+run1 [label="Run
+You start to run, but this thug
+is determined to take you out.
+He pulls out a gun.
+Quick, dodge!"]
+
+dodge [label="You jump into the crowd.
+His gun fires and misses.
+You run away."]
+
+dodgeFail [label="You didn't dodge in time.
+He shoots you and you die.
+===============
+|||GAME OVER|||
+==============="]
+
+fight [label="Fight
+You turn to fight, and he pulls out a gun.
+Take cover, or try to disarm him?"]
+
+cover [label="Take Cover
+The thug walks around the car with the gun.
+You try to get up, but he shoots you.
+You die.
+===============
+|||GAME OVER|||
+==============="]
+
+disarm [label="Disarm
+You rush up and try to take the gun.
+Your bravery is rewarded,
+as he didn't have the gun ready.
+You take the gun.
+Shoot him, or run away?"]
+
+shoot [label="Shoot
+You shoot the thug. Luckily, nobody hears.
+You get in the car, and start to drive home.
+Take a shortcut, or drive the long way?"]
+
+run3 [label="Run
+With the gun in your hands, you start to run.
+A police officer catches you and you are arrested.
+You get fined for using a gun in public,
+and then go on with your life.
+============
+|||WIN???|||
+============"]
+
+shortcut [label="Shortcut
+
+"]
+
+long ["
+
+"]
+
+run2 [label="Run
+You run and the thug takes your car. 
+He doesn't chase you, so you are probably safe.
+Walk home, or take the bus?
+"]
+
+walk2 ["
+
+"]
+
+bus ["
+
+"]
+
+start->walk
+start->car
+walk->hide
+walk->run1
+run1->dodge
+dodge->run2
+run1->dodgeFail
+fight->cover
+fight->disarm
+disarm->shoot
+disarm->run3
+car->fight
+car->run2
+run2->bus
+run2->walk2
+
+
+}

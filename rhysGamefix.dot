@@ -1,0 +1,12 @@
+digraph simple_map {
+
+start [label="You are walking home from work.
+A row of stores is on your left.
+From the corner of your eye, 
+you spot a scary-looking guy several meters behind you.
+He is definitely following you.
+"]
+
+
+
+}
