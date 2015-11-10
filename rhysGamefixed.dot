@@ -1,0 +1,152 @@
+digraph simple_map {
+
+
+start [label="You are walking home from work.
+A row of stores is on your left.
+From the corner of your eye, 
+you spot a scary-looking guy several meters behind you.
+He is definitely following you."]
+
+walk [label="Keep going
+You continue along the street,
+but it won't work for long.
+Start running, or hide?"]
+
+car [label="Car
+You start towards your car.
+Once you reach the car, he is already near.
+Putting in your key and opening the door takes too long,
+and the guy is right behind you. Run, or fight?"]
+
+hide [label="Hide
+You sneak into a clothing store. 
+You might as well buy something 
+to take your mind off of the situation.
+Buy something, or not?"]
+
+run [label="Run/nYou start to run, but this thug
+is determined to take you out.
+He pulls out a gun.
+Quick, dodge!"]
+
+dodge [label="You jump into the crowd.
+His gun fires and misses.
+You run away."]
+
+dFail [label="You didn't dodge in time.
+He shoots you and you die.
+=============
+|||GAME OVER|||
+============="]
+
+fight [label="Fight
+You turn to fight, and he pulls out a gun.
+Take cover, or try to disarm him?"]
+
+cover [label="Take Cover
+The thug walks around the car with the gun.
+You try to get up, but he shoots you.
+You die.
+=============
+|||GAME OVER|||
+============="]
+
+disarm [label="Disarm
+You rush up and try to take the gun.
+Your bravery is rewarded,
+as he didn't have the gun ready.
+You take the gun.
+Shoot him, or run away?"]
+
+shoot [label="Shoot
+You shoot the thug. Luckily, nobody hears.
+You get in the car, and start to drive home.
+Take a shortcut, or drive the long way?"]
+
+run3 [label="Run
+With the gun in your hands, you start to run.
+A police officer catches you and you are arrested.
+You get fined for using a gun in public,
+and then go on with your life.
+========
+|||WIN???|||
+========"]
+
+shortcut [label="Shortcut
+You take the short way home through a back road.
+The dirt road looks worse than usual,
+maybe it rained?
+Keep going, or turn back?"]
+
+long [label="Long Way
+You drive the long way home.
+You are exhausted and truamatized
+because you just killed a man.
+========
+|||WIN???|||
+========"]
+
+run2 [label="Run
+You run and the thug takes your car. 
+He doesn't chase you, so you are probably safe.
+Walk home, or take the bus?"]
+
+walk2 [label="Walk Home
+You "]
+
+bus [label="Take Bus
+You take the bus home, but it doesn't
+go all the way to your house.
+You are now in an unfamiliar part of town.
+Try to walk home, or take another bus?"]
+
+bus2[label="Another Bus
+This next bus comes sputtering up.
+It's really dirty and might not even work.
+You get a strange sense of forboding from it.
+Do you really want to get on this bus?
+Walk Home, or Ride Bus?"]
+
+walk4[label="Walk Home
+You walk home, a little weirded out by that bus.
+The sketchy bus drives onto the sidewalk
+and hits you as you start to walk home.
+You die.
+=============
+|||GAME OVER|||
+============="]
+
+bus3[label="
+"]
+
+walk3[label="Walk Home
+You don't really know where you're going,
+and you become very lost. Several days later,
+you arrive home nearly-dead and very tired.
+========
+|||WIN???|||
+========
+(pretty crappy win, if you ask me)"]
+
+start->walk
+start->car
+walk->hide
+walk->run
+run->dodge
+dodge->run2
+run->dFail
+fight->cover
+fight->disarm
+disarm->shoot
+disarm->run3
+car->fight
+car->run2
+run2->bus
+run2->walk2
+shoot->long
+shoot->shortcut
+bus->walk3
+bus->bus2
+bus2->walk4
+bus2->bus3
+}
