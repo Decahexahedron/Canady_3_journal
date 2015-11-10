@@ -1,0 +1,6 @@
+In your game, how can you track what challenges the player has solved?
+probably a bunch of booleans that change when you do that part
+How can you track HP?
+an int
+Items?
+you could have an array of strings, or just a bunch of booleans to check for each item
