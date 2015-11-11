@@ -1,0 +1,9 @@
+In your game, what challenges must your player solve?
+Generally making the right decision is a challenge, where the wrong decision usually results in a worse part of the possibilities, or the player dying
+
+How will you specifically track whether they have been solved?
+Lots of booleans??
+
+Provide variable names and types. Classes if applicable.
+public int progress //tracks how far the player is, using while loops so if the player types an invalid response, it will repeat that node
+A boolean for pretty much every node, so it will give the player the correct node
