@@ -1,0 +1,5 @@
+How will you use while loops in your game? Why?
+I can put the whole game (and/or induvidual nodes) in a while loop so they can repeat;
+i.e. starting over the game or restarting the node because they gave a bad input
+How will you use methods in your game? Why?
+I'm pretty sure Mr. Davis wants us to use a method for each node so it's simpler to put in ifs and while loops
