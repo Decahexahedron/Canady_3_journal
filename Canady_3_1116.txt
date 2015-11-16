@@ -1,0 +1,6 @@
+No, really, How will you use methods in your game? Why?
+I have put each node in its own method so I can call it in the main class
+ (I'm acutually using a "game" method) in the ifs, whiles, and whatnot
+
+What values will you pass to them.
+So far I don't pass any values to them but I have one node that will be timed and it may require passing it a counter
