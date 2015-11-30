@@ -1,0 +1,5 @@
+How successful were you with your game?
+My game, on a technical level, turned out well.
+Each node is its own method and each calls the next method based on user input,
+so the main class etc. only needs the first few methods and the game handles itself.
+Gameplay-wise, it's a little bare, and it doesn't have a very interesting story or a ton of content.
