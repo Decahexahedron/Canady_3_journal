@@ -1,0 +1,4 @@
+Describe the 2-D dungeon or world you would like to have for your game.
+(since I'm going to try and do a platformer), I want to have a nice dungeon/1001 Spikes/Spelunky kind of feel, with lots of booby traps and danger.
+Why?
+High difficulty and high skill ceiling is a characteristic of these Indiana Jones-esque games. I want to make a game that is challenging but still fun.
