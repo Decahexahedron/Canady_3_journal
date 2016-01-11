@@ -1,0 +1,6 @@
+
+What slick game will you create?
+I'm making a 1001 Spikes-esque platformer with short, difficult levels.
+
+What challenges have you faced / are you facing?
+The hitboxes are annoying, and our class is behind.
