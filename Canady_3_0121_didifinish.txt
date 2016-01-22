@@ -1,0 +1,2 @@
+I took 2 or 3 days trying to do something (implement deadly in the form of blocked) that ended up not working at al, and it was much easier to just make a class/give it hitboxes.
+I still finished on time, more or less, since I skipped 5th period and lunch a few times and stayed after school once.
