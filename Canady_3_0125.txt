@@ -1,0 +1,6 @@
+Briefly describe what you could have done to successfully complete your game?
+I worked on the game on the 3-day weekend, and stayed after school and during lunch multiple times.
+
+Describe your problem solving / trouble shooting process.
+My main obstacle was trying to implement things like lava, jumping, and gravity. They ended up not being too hard (part of it I copied from a different game)
+but I wasted some time on what ended up being the wrong solution for lava/spikes. Gravity was easier than I thought once I had finished jumping.
