@@ -1,5 +1,10 @@
 How do you add an image to a slick game?
-You should give something its own class so it's not just an image, but a thing, then give it an Image, then you would draw it with render(). 
+You should give something its own class so it's not just an image, but a thing, then give it an Image, then you would draw it with render().:
+Image currentImage;
+    Shape hitbox;
+    Image ninja = new Image(
+            "res/d22_ninja.png");
+    this.currentImage = ninja;
 
 Where is the image drawn? [What code? Be specific.] 
 It is drawn in render(), e.g.:
