@@ -1,0 +1,13 @@
+What is a class constructor?
+A constructor is related to a class, used for making objects, and looks like:
+public ClassName(thingsThatItIsPassed){
+    set stuff to be equal to things
+}
+You make an object by calling the constructor with new, like
+objectName = new ClassName(arguments that were created by the constructor I think);
+
+What should be included in a class constructor for orbs? Why?
+We would need a hitbox (probably ints for hitboxX and hitboxY or hitboxWidth and hitboxHeight) and location (ints for x and y), also an int or float for damage.
+
+What methods should the orb have? why?
+They could have a subtractHealth() or doDamage() method to damage the player,  and something like tracking() or move() to make it move to the player.
