@@ -1,0 +1,1 @@
+ I could clean up my code by using comments to explain what is going on with jumping, land, and gravity. Otherwise it is my own because mine is a functional platformer.
