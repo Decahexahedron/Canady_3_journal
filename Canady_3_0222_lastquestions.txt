@@ -1,0 +1,19 @@
+We will have a test on friday. It will be about the notes from last week. Are you ready?
+Yes totally ez
+What specific questions do you have about the slick game?
+None, my game works
+We will be revising our Slick game to: 
+1.Have multiple levels
+2.Enemies
+3.Traps (or something) defined by an array
+4.Give and take damage
+5.Score
+6.Inventory or some compelling alternative.
+What will you have to do to get this working?
+Are you prepared? Do you have all the knowledge you need?
+Levels are ez, enemies are already in the base Unwavering (i need to give them gravity tho)
+I already have some traps but i could move them to an array
+Damage is super easy you just need an attack
+I already have score
+Inventory will be interesting but adding collectibles will be fun
+I am prepared, I have most of the knowledge I need but idk how to do inventory
