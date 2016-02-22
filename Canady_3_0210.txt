@@ -1,0 +1,6 @@
+Question 1 that a bunch of people had: Why doesn't my (insert getter or setter here) work? 
+(it's almost definitely that they didnt declare it in Orb)
+Question 2: why doesn't anything work? 
+(because you didn't pay attention when Mr. Davis told you exactly what to do)
+Question 3: Why doesn't my random game method like getId() work? 
+(you messed up your brackets somewhere)
