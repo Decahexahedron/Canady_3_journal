@@ -1,0 +1,22 @@
+For what computational reason did you type elf64?
+elf64 is a format I'm pretty sure, to use with nasm (the command for assembly??))
+
+Why did you use ld?
+ld is used to compile (i googled most of this)
+
+Why did you not have to use chmod to make sample executable?
+chmod changes the file's permissions (i knew this from cyberpatriot) so you could use it
+
+Now - change the code to print your name. You should change the program so that it actually prints your name.
+
+
+Post the code in your journal
+
+
+What problem did you have to solve to get it to work?
+
+
+Given your actual experience with Assembly now --- Is assembly 'quick and easy'? Why or why not?
+
+
+What does 'low level' actually mean with regards to programming languages?
